@@ -4,6 +4,8 @@
 
 This project provides a blueprint for a professional-grade, software-defined cybersecurity laboratory. It utilizes **VMware ESXi** for robust virtualization, **pfSense** for high-performance network segmentation, and a **Docker-centric ecosystem** for lightweight service deployment. The entire environment is monitored by a **Splunk SIEM** to provide deep visibility into network traffic and endpoint behavior.
 
+**Infografic-type, tl;dr version:** [Click here!](https://ricoded-o00.github.io/jubilant-barnacle/)
+
 ## Hardware Requirements
 
 For optimal performance, particularly when running multiple Windows VMs and a Splunk indexer, the following specifications are recommended:
